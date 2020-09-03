@@ -8,8 +8,8 @@ The app illustrates the power of widgets and collection widgets by making it eas
 
 ## Screenshots
 
-![Screenshot1](screenshots/screen_1.png) ![Screenshot2](screenshots/screen_2.png) ![Screenshot3](screenshots/screen_3.png)
-![Screenshot4](screenshots/screen_4.png) ![Screenshot5](screenshots/screen_5.png) 
+![Screenshot1](screenshots/tambahnanaman.jpeg) ![Screenshot2](screenshots/widget1.jpeg) ![Screenshot3](screenshots/widget2.jpeg)
+![Screenshot4](screenshots/potrait.jpeg) ![Screenshot5](screenshots/landscape.jpeg) 
 
 ## Image resources
 https://pixabay.com/en/sapling-plant-growing-seedling-154734/
